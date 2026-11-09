@@ -15,6 +15,5 @@ Here is the image of the 3d view:
 Here is my bill of materials:
 | Part Name | Cost | Quantity | Vendor | Cart Image |
 | :--- | :--- | :--- | :--- | :--- |
-| Turtle PCB | $23.11 | 1 | JLCPCB | <img width="1881" height="557" alt="Screenshot 2026-11-08 212936" src="https://github.com/user-attachments/assets/560a1158-0fc9-437e-888b-4ee95037ab06" />
- |
+| Turtle PCB | $23.11 | 1 | JLCPCB | <img width="1881" height="557" alt="Screenshot 2026-11-08 212936" src="https://github.com/user-attachments/assets/560a1158-0fc9-437e-888b-4ee95037ab06" /> |
 | **Total** | **$23.11** | | | |
